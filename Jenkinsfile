@@ -27,7 +27,7 @@ node {
         build job: DEPLOY_JOB, parameters: [[
             $class: 'StringParameterValue',
             name: 'IMAGE_TAG',
-            value: 'jmenga/todobackend:' + imageTag
+            value: 'blankia/todobackend:' + imageTag
         ]]
     }
     finally {
