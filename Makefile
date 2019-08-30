@@ -1,6 +1,6 @@
 # Project variables
 PROJECT_NAME ?= todobackend
-ORG_NAME ?= jmenga
+ORG_NAME ?= blankia
 REPO_NAME ?= todobackend
 
 # Filenames
